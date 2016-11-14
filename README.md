@@ -1,2 +1,2 @@
-# yachid
-Micro Social Networking Engine
+# Yachid
+Infinitely Scalable Social Networking Engine
